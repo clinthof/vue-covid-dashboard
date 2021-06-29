@@ -1,24 +1,3 @@
-# midterm-vue
+# COVID-19 Dashboard
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A COVID-19 data dashboard built with Vue and TypeScript to display various tables and charts as well as the Firebase user activity log.
